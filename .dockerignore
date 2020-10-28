@@ -1,0 +1,6 @@
+.idea/
+tests/
+.git/
+
+heroku.yml
+README.md
